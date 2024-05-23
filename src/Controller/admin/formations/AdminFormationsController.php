@@ -11,9 +11,9 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 
 /**
- * Controleur de admin formations
+ * Controleur des formations
  *
- * @author El_pacino
+ * @author Squareface
  */
 class AdminFormationsController extends AbstractController {
 
