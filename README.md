@@ -9,19 +9,19 @@ Le projet d'origine est disponible à cette [URL](https://github.com/CNED-SLAM/m
 Voici les 5 pages correspondant aux différents cas d’utilisation.
 ### Page 1 : la page des formations
 La partie des formations permet de lister les différentes formations. Il est possible d'ajouter, modifier ou même supprimer une formation. Il est également possible de filtrer les formations<br>
-![img2](https://github.com/squareface27/mediatekformation/blob/prod/images/admin_formations.png?raw=true)
+![img2](https://ibb.co/zRs1zTt)
 ### Page 2 : la page d'ajout de formations
 Cette page permet d'ajouter de nouvelles formations au catalogue. Tout les champs sont obligatoires, sauf le champ de titre et le champ de catégorie.
-![img3](https://github.com/squareface27/mediatekformation/blob/prod/images/admin_formations_add.png?raw=true)
+![img3](https://ibb.co/Q94yKYD)
 ### Page 3 : la page des playlists
 Cette page permet de lister les différentes playlists, de voir leur nom, la catégorie et aussi le nombre de vidéos associées à cette playlist. Les playlists peuvent être filtrées, il est également possible de modifier une playlist, d'en supprimer une si celle-ci ne contient aucune formation associée ou d'ajouter une nouvelle playlist.
-![img4](https://github.com/squareface27/mediatekformation/blob/prod/images/admin_playlists.png?raw=true)
+![img4](https://ibb.co/z4hq1xn)
 ### Page 4 : la page d'ajout de playlist
 Cette page permet d'ajouter une nouvelle playlist.Le nom de la playlist est obligatoire, la description est facultative
-![img5](https://github.com/squareface27/mediatekformation/blob/prod/images/admin_playlists_add.png?raw=true)
+![img5](https://ibb.co/2gdrmFt)
 ### Page 5 : La page des catégories
 Cette page permet de lister les catégories, on peut y trouver le nombre de vidéos liée à la catégorie. Il est possible de trier les catégories par nom. Il est possible d'ajouter une catégorie en indiquant le nom en haut à gauche. Il est également possible de supprimer une catégorie si celle-ci ne contient aucune formation.
-![img6](https://github.com/squareface27/mediatekformation/blob/prod/images/admin_categories.png?raw=true)
+![img6](https://ibb.co/g795Qsh)
 
 ## Installation de l'application
 - Vérifier que Composer, Git et Wamserver (ou équivalent) sont installés sur l'ordinateur.
