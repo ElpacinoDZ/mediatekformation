@@ -101,7 +101,7 @@ class AdminPlaylistsController extends AbstractController {
      */
     public function showOne($id): Response{
         $playlist = $this->playlistRepository->find($id);
-        $playlistCategories = $this->categorieRepository->findAllForOnePlaylist($id);
+    $playlistCategories = $this->categorieRepository->findAllForOnePlaylist($id);
         $playlistFormations = $this->playlistRepository->findAllForOnePlaylist($id);
         return $this->render(self::PAGE_PLAYLIST, [
             'playlist' => $playlist,
